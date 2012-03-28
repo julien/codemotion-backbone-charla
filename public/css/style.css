@@ -1,0 +1,21 @@
+body {
+  padding: 10px;
+  font: 14px "Georgia", serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+ul, li {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+
+.name {
+  width: 300px;
+  display: block;
+  float: left;
+}
