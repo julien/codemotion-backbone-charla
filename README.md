@@ -17,9 +17,9 @@ Charla [Backbone.js](http://www.backbonejs.org) en [CodeMotion](http://www.codem
 
 *and obviously* 
 
-+ [jQuery] (http://www.jquery.com)
-+ [underscore] (http://documentcloud.github.com/underscore)
-+ [Backbone.js] (http://backbonejs.org)
++ [jQuery](http://www.jquery.com)
++ [underscore](http://documentcloud.github.com/underscore)
++ [Backbone.js](http://backbonejs.org)
 
 *The app lets you add, edit or remove users, nothing more nothing less.*
 
